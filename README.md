@@ -25,7 +25,7 @@ be written with the [YAML](https://yaml.org/) syntax.
 
 License
 -------
-This code is under the [Apache License, Version 2.0, January 2004][./LICENSE].
+This code is under the [Apache License, Version 2.0, January 2004](./LICENSE).
 
 See the [`NOTICE`](./NOTICE) file for required notices and attributions.
 
